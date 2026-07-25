@@ -18,7 +18,18 @@ A comprehensive Data Analytics project examining crowdsourced citizen flood repo
 * **Data Cleansing:** Categorical normalization and text-field standardization.
 
 ---
+## 📊 Dashboard Overview
 
+### Page 1: Flood Risk & Hotspots
+Identifies physical hazard points, high-risk corridors (Lekki Phase 1, Surulere, Ajah), and residency breakdown.
+
+### Page 2: Weather & Report Correlation
+Examines the direct correlation between precipitation spikes and citizen reporting surges.
+
+### Page 3: App Usability & Feedback
+Translates 58% network rain drop, pre-trip behavioral gaps, and platform splits into product directives.
+
+---
 ## 📂 Repository Contents & Datasets
 * `Group 6 DA's BuildSzn Report (FloodWatch).pbix` — Interactive Power BI Report File
 * `nasa_weather_data.csv` — NASA Weather Severity & Environmental Indicators
