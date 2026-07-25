@@ -1,7 +1,6 @@
 # 🌊 BuildSzn FloodWatch Analytics Report
 
-Crowdsourced Flood Monitoring & Weather Correlation Analytics for Lagos, Nigeria (Power BI).
-
+A comprehensive Data Analytics project examining crowdsourced citizen flood reports, NASA weather severity metrics, and Lagos elevation datasets using Power BI to drive Product Design (PD) decisions.
 ---
 
 ## 📌 Executive Summary
