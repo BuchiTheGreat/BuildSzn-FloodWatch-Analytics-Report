@@ -46,8 +46,35 @@ Synthesizes key hazard findings, usability signals, and concrete Product Design 
 ![Summary & Takeaways](images/Summary%20%26%20Takeaways.png)
 
 ---
-## 📂 Repository Contents & Datasets
-* `Group 6 DA's BuildSzn Report (FloodWatch).pbix` — Interactive Power BI Report File
-* `nasa_weather_data.csv` — NASA Weather Severity & Environmental Indicators
-* `FloodWatch Community Transit & Weather Resilience Survey...csv` — Crowdsourced Survey Responses
+
+## 📂 Repository Structure & Datasets
+
+```text
+BuildSzn-FloodWatch-Analytics-Report/
+│
+├── 📁 dashboard/
+│   └── 📄 Group 6 DA's BuildSzn Report (FloodWatch).pbix   # Interactive Power BI Dashboard
+│
+├── 📁 data/
+│   ├── 📄 FloodWatch Community Transit & Weather Resilience Survey...csv  # Survey Responses
+│   └── 📄 nasa_weather_data.csv                            # NASA Weather Severity Data
+│
+├── 📁 images/
+│   ├── 📄 Cover Page.png                                   # Dashboard Page 1 Preview
+│   ├── 📄 Flood Risk & Hotspots Overview.png              # Dashboard Page 2 Preview
+│   ├── 📄 Weather & Report Correlation.png                 # Dashboard Page 3 Preview
+│   ├── 📄 App Usability & Feedback.png                    # Dashboard Page 4 Preview
+│   └── 📄 Summary & Takeaways.png                         # Dashboard Page 5 Preview
+│
+├── 📁 presentation/
+│   ├── 📄 Data Analysis FloodWatch Story.pptx             # Stakeholder PowerPoint Deck
+│   └── 📄 Data Analysis FloodWatch Story.pdf              # Slide Deck (PDF for web viewing)
+│
+├── 📁 python/
+│   ├── 📄 extraction of lagos...                          # GIS / Spatial Extraction Script
+│   ├── 📄 gis_osm_roads_fre...                            # OSM Road Network Processing
+│   └── 📁 python scripts/                                 # Data Cleaning & Transformation
+│
+└── 📄 README.md                                           # Case Study Documentation
+* 
 * 📌 **Lagos Elevation Dataset:** Due to GitHub's 25MB file size limit, the full `lagos_elevation.csv` dataset is hosted on [Google Drive](https://drive.google.com/file/d/10XRtgp46yk90CwwgxYDbgvJ7d8J4Cl8p/view?usp=sharing).
