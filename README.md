@@ -20,14 +20,30 @@ A comprehensive Data Analytics project examining crowdsourced citizen flood repo
 ---
 ## 📊 Dashboard Overview
 
+### Cover Page
+Interactive landing portal featuring high-level core KPIs, custom app branding, and seamless multi-page navigation.
+
+![Cover Page](images/Cover%20Page.png)
+
 ### Page 1: Flood Risk & Hotspots
-Identifies physical hazard points, high-risk corridors (Lekki Phase 1, Surulere, Ajah), and residency breakdown.
+Identifies physical hazard points, high-risk corridors (Lekki Phase 1, Surulere, Ajah), and regional residency breakdown.
+
+![Flood Risk & Hotspots](images/Flood%20Risk%20%26%20Hotspots.png)
 
 ### Page 2: Weather & Report Correlation
-Examines the direct correlation between precipitation spikes and citizen reporting surges.
+Examines the direct correlation between precipitation spikes and citizen reporting surges using NASA weather telemetry.
+
+![Weather & Report Correlation](images/Weather%20%26%20Report%20Correlation.png)
 
 ### Page 3: App Usability & Feedback
-Translates 58% network rain drop, pre-trip behavioral gaps, and platform splits into product directives.
+Translates connectivity bottlenecks during rain, verification methods, and requested features into product insights.
+
+![App Usability & Feedback](images/App%20Usability%20%26%20Feedback.png)
+
+### Page 4: Executive Summary & Strategic Takeaways
+Synthesizes key hazard findings, usability signals, and concrete Product Design (PD) engineering directives.
+
+![Summary & Takeaways](images/Summary%20%26%20Takeaways.png)
 
 ---
 ## 📂 Repository Contents & Datasets
